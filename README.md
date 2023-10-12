@@ -12,6 +12,8 @@ I'm currently working on Kurunzi Tech websitre<br>I'm looking to collaborate on 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Michal379&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Michal379&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+[![wakatime](https://wakatime.com/badge/user/f6e66a47-6e89-40ab-88d9-36161ee2de6e.svg)](https://wakatime.com/@f6e66a47-6e89-40ab-88d9-36161ee2de6e)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Michal379&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
